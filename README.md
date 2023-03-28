@@ -1,4 +1,4 @@
-GymBro - Trainingsplaner
+#GymBro - Trainingsplaner#
 
 GymBro ist eine einfache Trainingsplaner-Anwendung, die mit Angular für das Frontend und Flask für das Backend entwickelt wurde. Mit dieser Anwendung können Benutzer Trainings erstellen, anzeigen und verwalten.
 Installation
