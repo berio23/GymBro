@@ -1,16 +1,16 @@
 # GymBro - Trainingsplaner #
 
 GymBro ist eine einfache Trainingsplaner-Anwendung, die mit Angular für das Frontend und Flask für das Backend entwickelt wurde. Mit dieser Anwendung können Benutzer Trainings erstellen, anzeigen und verwalten.
-Installation
+## Installation ##
 
 Folgen Sie diesen Schritten, um die Anwendung auf Ihrem lokalen System zu installieren:
-Voraussetzungen
+## Voraussetzungen ##
 
     Node.js (https://nodejs.org)
     Python (https://www.python.org)
     Git (https://git-scm.com)
 
-Schritte
+## Schritte
 
     Klonen Sie das Repository:
 
