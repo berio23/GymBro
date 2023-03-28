@@ -16,50 +16,50 @@ Folgen Sie diesen Schritten, um die Anwendung auf Ihrem lokalen System zu instal
 
 bash
 
-git clone https://github.com/yourusername/gymbro.git
-cd gymbro
+`git clone https://github.com/yourusername/gymbro.git
+cd gymbro `
 
-    Installieren Sie die notwendigen Pakete für das Angular-Frontend:
+   Installieren Sie die notwendigen Pakete für das Angular-Frontend:
 
 bash
 
-cd frontend
-npm install
+`cd frontend
+npm install`
 
     Installieren Sie die notwendigen Pakete für das Flask-Backend:
 
 bash
 
-cd ../backend
+`cd ../backend
 python -m venv venv
 source venv/bin/activate  # Für Windows: venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt`
 
 ## Anwendung starten
 
 Um die Anwendung zu starten, führen Sie die folgenden Befehle aus:
 
-    Starten Sie das Angular-Frontend:
+   Starten Sie das Angular-Frontend:
 
 bash
 
-cd frontend
-npm start
+`cd frontend
+npm start`
 
     In einem neuen Terminalfenster starten Sie das Flask-Backend:
 
 bash
 
-cd backend
+`cd backend
 source venv/bin/activate  # Für Windows: venv\Scripts\activate
-python app.py
+python app.py`
 
 Die Anwendung ist nun unter http://localhost:4200 erreichbar.
 ## Funktionen
 
-    Trainings erstellen
-    Trainings anzeigen
-    Trainings verwalten
+   *Trainings erstellen
+   *Trainings anzeigen
+   *Trainings verwalten
 
 ## Lizenz
 
