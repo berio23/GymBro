@@ -4,13 +4,13 @@ GymBro ist eine einfache Trainingsplaner-Anwendung, die mit Angular für das Fro
 ## Installation ##
 
 Folgen Sie diesen Schritten, um die Anwendung auf Ihrem lokalen System zu installieren:
-## Voraussetzungen ##
+### Voraussetzungen ###
 
     Node.js (https://nodejs.org)
     Python (https://www.python.org)
     Git (https://git-scm.com)
 
-## Schritte
+### Schritte
 
     Klonen Sie das Repository:
 
@@ -35,7 +35,7 @@ python -m venv venv
 source venv/bin/activate  # Für Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-Anwendung starten
+## Anwendung starten
 
 Um die Anwendung zu starten, führen Sie die folgenden Befehle aus:
 
@@ -55,12 +55,12 @@ source venv/bin/activate  # Für Windows: venv\Scripts\activate
 python app.py
 
 Die Anwendung ist nun unter http://localhost:4200 erreichbar.
-Funktionen
+## Funktionen
 
     Trainings erstellen
     Trainings anzeigen
     Trainings verwalten
 
-Lizenz
+## Lizenz
 
 Diese Anwendung steht unter der MIT-Lizenz. Weitere Informationen finden Sie in der LICENSE-Datei.
